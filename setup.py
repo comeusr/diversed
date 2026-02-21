@@ -1,0 +1,35 @@
+from setuptools import setup, find_packages
+
+setup(
+    name="diversed",
+    version="0.1.0",
+    description="Dynamic Verification for Speculative Decoding",
+    author="Anonymous",
+    author_email="anonymous@example.com",
+    packages=find_packages(),
+    install_requires=[
+        "torch>=2.0.0",
+        "transformers>=4.36.0",
+        "accelerate>=0.20.3",
+        "numpy>=1.17",
+        "evaluate>=0.4.0",
+        "sacrebleu>=2.3.1",
+        "datasets>=2.14.0",
+        "pyyaml>=5.1",
+        "tqdm>=4.65.0",
+        "scikit-learn>=1.2.2",
+        "matplotlib>=3.7.1",
+        "pandas>=2.0.0",
+    ],
+    classifiers=[
+        "Development Status :: 3 - Alpha",
+        "Intended Audience :: Science/Research",
+        "License :: OSI Approved :: Apache Software License",
+        "Programming Language :: Python :: 3",
+        "Programming Language :: Python :: 3.8",
+        "Programming Language :: Python :: 3.9",
+        "Programming Language :: Python :: 3.10",
+        "Topic :: Scientific/Engineering :: Artificial Intelligence",
+    ],
+    python_requires=">=3.8",
+)

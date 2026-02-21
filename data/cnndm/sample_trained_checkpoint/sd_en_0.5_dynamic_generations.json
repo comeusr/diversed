@@ -1,0 +1,90 @@
+[
+  {
+    "prompt": "S",
+    "generation": "Lewis Hamilton and Nico Rosberg have had a heated exchange in the press conference following the Chinese Grand Prix, with Ros",
+    "reference": "Lewis Hamilton held off the challenge from Nico Rosberg to win in China .\nBut Rosberg was furious with his Mercedes team-mate after the Grand Prix .\nGerman accused Hamilton of compromising his race by\u00a0driving\u00a0too slowly .\nBut Hamilton, who leads the championship, has denied any wrong-doing .\nHamilton is already 17 points clear of Rosberg in race for the F1 title .",
+    "metric": {
+      "rouge1": 0.24096385542168675,
+      "rouge2": 0.07407407407407407,
+      "rougeL": 0.19277108433734938,
+      "rougeLsum": 0.21686746987951808
+    }
+  },
+  {
+    "prompt": "S",
+    "generation": "Lewis Hamilton and Nico Rosberg have had a heated exchange in the press conference following the Chinese Grand Prix, with Ros",
+    "reference": "Lewis Hamilton held off the challenge from Nico Rosberg to win in China .\nBut Rosberg was furious with his Mercedes team-mate after the Grand Prix .\nGerman accused Hamilton of compromising his race by\u00a0driving\u00a0too slowly .\nBut Hamilton, who leads the championship, has denied any wrong-doing .\nHamilton is already 17 points clear of Rosberg in race for the F1 title .",
+    "metric": {
+      "rouge1": 0.24096385542168675,
+      "rouge2": 0.07407407407407407,
+      "rougeL": 0.19277108433734938,
+      "rougeLsum": 0.21686746987951808
+    }
+  },
+  {
+    "prompt": "S",
+    "generation": "Lewis Hamilton and Nico Rosberg have had a heated exchange in the press conference following the Chinese Grand Prix, with Ros",
+    "reference": "Lewis Hamilton held off the challenge from Nico Rosberg to win in China .\nBut Rosberg was furious with his Mercedes team-mate after the Grand Prix .\nGerman accused Hamilton of compromising his race by\u00a0driving\u00a0too slowly .\nBut Hamilton, who leads the championship, has denied any wrong-doing .\nHamilton is already 17 points clear of Rosberg in race for the F1 title .",
+    "metric": {
+      "rouge1": 0.24096385542168675,
+      "rouge2": 0.07407407407407407,
+      "rougeL": 0.19277108433734938,
+      "rougeLsum": 0.21686746987951808
+    }
+  },
+  {
+    "prompt": "S",
+    "generation": "Lewis Hamilton and Nico Rosberg have had a heated exchange in the press conference following the Chinese Grand Prix, with Ros",
+    "reference": "Lewis Hamilton held off the challenge from Nico Rosberg to win in China .\nBut Rosberg was furious with his Mercedes team-mate after the Grand Prix .\nGerman accused Hamilton of compromising his race by\u00a0driving\u00a0too slowly .\nBut Hamilton, who leads the championship, has denied any wrong-doing .\nHamilton is already 17 points clear of Rosberg in race for the F1 title .",
+    "metric": {
+      "rouge1": 0.24096385542168675,
+      "rouge2": 0.07407407407407407,
+      "rougeL": 0.19277108433734938,
+      "rougeLsum": 0.21686746987951808
+    }
+  },
+  {
+    "prompt": "S",
+    "generation": "Lewis Hamilton and Nico Rosberg have had a heated exchange in the press conference following the Chinese Grand Prix, with Ros",
+    "reference": "Lewis Hamilton held off the challenge from Nico Rosberg to win in China .\nBut Rosberg was furious with his Mercedes team-mate after the Grand Prix .\nGerman accused Hamilton of compromising his race by\u00a0driving\u00a0too slowly .\nBut Hamilton, who leads the championship, has denied any wrong-doing .\nHamilton is already 17 points clear of Rosberg in race for the F1 title .",
+    "metric": {
+      "rouge1": 0.24096385542168675,
+      "rouge2": 0.07407407407407407,
+      "rougeL": 0.19277108433734938,
+      "rougeLsum": 0.21686746987951808
+    }
+  },
+  {
+    "prompt": "S",
+    "generation": "Lewis Hamilton and Nico Rosberg have had a heated exchange in the press conference following the Chinese Grand Prix, with Ros",
+    "reference": "Lewis Hamilton held off the challenge from Nico Rosberg to win in China .\nBut Rosberg was furious with his Mercedes team-mate after the Grand Prix .\nGerman accused Hamilton of compromising his race by\u00a0driving\u00a0too slowly .\nBut Hamilton, who leads the championship, has denied any wrong-doing .\nHamilton is already 17 points clear of Rosberg in race for the F1 title .",
+    "metric": {
+      "rouge1": 0.24096385542168675,
+      "rouge2": 0.07407407407407407,
+      "rougeL": 0.19277108433734938,
+      "rougeLsum": 0.21686746987951808
+    }
+  },
+  {
+    "prompt": "S",
+    "generation": "Lewis Hamilton and Nico Rosberg have had a heated exchange in the press conference following the Chinese Grand Prix, with Ros",
+    "reference": "Lewis Hamilton held off the challenge from Nico Rosberg to win in China .\nBut Rosberg was furious with his Mercedes team-mate after the Grand Prix .\nGerman accused Hamilton of compromising his race by\u00a0driving\u00a0too slowly .\nBut Hamilton, who leads the championship, has denied any wrong-doing .\nHamilton is already 17 points clear of Rosberg in race for the F1 title .",
+    "metric": {
+      "rouge1": 0.24096385542168675,
+      "rouge2": 0.07407407407407407,
+      "rougeL": 0.19277108433734938,
+      "rougeLsum": 0.21686746987951808
+    }
+  },
+  {
+    "prompt": "S",
+    "generation": "Lewis Hamilton and Nico Rosberg have had a heated exchange in the press conference following the Chinese Grand Prix, with Ros",
+    "reference": "Lewis Hamilton held off the challenge from Nico Rosberg to win in China .\nBut Rosberg was furious with his Mercedes team-mate after the Grand Prix .\nGerman accused Hamilton of compromising his race by\u00a0driving\u00a0too slowly .\nBut Hamilton, who leads the championship, has denied any wrong-doing .\nHamilton is already 17 points clear of Rosberg in race for the F1 title .",
+    "metric": {
+      "rouge1": 0.24096385542168675,
+      "rouge2": 0.07407407407407407,
+      "rougeL": 0.19277108433734938,
+      "rougeLsum": 0.21686746987951808
+    }
+  }
+]
