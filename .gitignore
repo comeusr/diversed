@@ -1,0 +1,112 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+test_scripts/
+logs/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Remove src folder
+src/
+
+# PyTorch (exclude large model files but keep sample checkpoint)
+*.pth
+*.pt
+# Keep sample ensemble head for testing
+!data/cnndm/sample_trained_checkpoint/ensemble_head.bin
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environment variables
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs and outputs
+*.log
+logs/*/
+!logs/*/.gitkeep
+outputs/
+wandb/
+.wandb/
+
+# Large model files (but keep sample checkpoint)
+models/
+checkpoints/
+*.bin
+*.safetensors
+# Keep sample ensemble head for testing
+!data/cnndm/sample_trained_checkpoint/ensemble_head.bin
+
+# Generated results (but keep sample results for reference)
+*_generations.json
+*_metrics.json
+# Keep sample results for testing
+!data/cnndm/sample_trained_checkpoint/*_generations.json
+!data/cnndm/sample_trained_checkpoint/*_metrics.json
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.bak
+
+# Cache directories
+.cache/
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# Hugging Face cache
+.cache/huggingface/
+
+# CUDA
+*.cu.o
+*.cu.cache
+
+# Dataset files (keep directory structure but not large datasets)
+data/*/train.json
+data/*/test.json
+data/*/validation.json
+data/*/dataset.json
